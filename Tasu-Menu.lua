@@ -5,6 +5,6 @@
 ██╔══██║██╔══██║██║    ██║  ██║██╔══██║██║╚██╗██║██║   ██║
 ██║  ██║██║  ██║██║    ██████╔╝██║  ██║██║ ╚████║╚██████╔╝
 ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝    ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═══╝ ╚═════╝ 
--- buy Tasu Hub V3.1 in my discord / tasu.org
+-- buy Tasu Hub V3.1 in my discord | https://tasu-community.tasuhub.workers.dev/
 ]]
 loadstring(game:HttpGet("https://pastefy.app/YkNbpfQC/raw"))()
