@@ -1,1 +1,1 @@
-loadstring(game:HttpGet('https://xhider.xyz/raw/TasuHubBF/Mega.lua'))()
+loadstring(game:HttpGet('https://pastefy.app/KiuL8lws/raw'))()
